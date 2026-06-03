@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "kingmin.aternos.me",
-    "port": 62666,
+    "port":  62666,
     "version": 1.21 "",
     "try-creative": false
   },
